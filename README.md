@@ -1,1 +1,3 @@
-# Smol_Stealth_Burner
+# Smol Stealth Burner
+
+Variants of the VORON Mini Afterburner.
