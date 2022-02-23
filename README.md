@@ -1,10 +1,10 @@
 # Smol Stealth Burner
 
-Variants of the VORON Mini Afterburner.
+Variants of the VORON Mini Afterburner. 
 
 **Nomenclature:** 
 - 0710 = 3007 hotend fan with 3010 part cooling fans
-- 1010 = 3010 hotend fan with 3010 part cooling fan
+- 1010 = 3010 hotend fan with 3010 part cooling fan **in progress**
 - 4020 = Coming Soon
 
 
